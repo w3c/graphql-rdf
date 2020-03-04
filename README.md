@@ -1,5 +1,5 @@
+# Bridging GraphQL and RDF Community Group
 
-# Specification 'graphql-rdf'
+Welcome to the [Bridging GraphQL and RDF Community Group](https://www.w3.org/community/graphql-rdf/) GitHub repository.
 
-This is the repository for graphql-rdf. You're welcome to contribute! Let's make the Web rock our socks
-off!
+[Mailing list archive](https://lists.w3.org/Archives/Public/public-graphql-rdf/).
