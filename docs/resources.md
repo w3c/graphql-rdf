@@ -14,6 +14,7 @@ Feel free submit links to other resources related to GraphQL-RDF by opening a Pu
 * Ontotext GraphQl schema language: http://platform.ontotext.com/soml/index.html
 * DATAtourime: https://datatourisme.frama.io/api/#/
 * Category theory: https://arxiv.org/pdf/1909.04881.pdf
+* Morph-GraphQL: https://github.com/oeg-upm/morph-graphql
 
 # Papers
 
@@ -23,6 +24,7 @@ Feel free submit links to other resources related to GraphQL-RDF by opening a Pu
 * Formal analysis of GraphQL language: http://olafhartig.de/files/HartigPerez_WWW2018_Preprint.pdf
 * Schemas for Property Graphs using GraphQL schemas: http://olafhartig.de/files/HartigHidders_GRADES2019_Preprint.pdf
 * Empirical analysis of GraphQL API schemas: http://olafhartig.de/files/KimEtAl_AMW2019.pdf
+* Morph-GraphQL: https://dchaves.oeg-upm.net/resources/papers/morphgraphql-seke-2019.pdf
 
 # Slides
 
