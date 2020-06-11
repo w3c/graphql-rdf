@@ -10,10 +10,12 @@ Feel free submit links to other resources related to GraphQL-RDF by opening a Pu
 * Staple API: https://staple-api.org/
 * GraphQL in Stardog: https://www.stardog.com/docs/#_graphql_queries
 * GraphQL in TopBraid: https://www.topquadrant.com/technology/graphql/
-* Ontotext GraphQL: https://www.ontotext.com/blog/the-rise-of-the-knowledge-graph/
-* Ontotext GraphQl schema language: http://platform.ontotext.com/soml/index.html
-* DATAtourime: https://datatourisme.frama.io/api/#/
-* Category theory: https://arxiv.org/pdf/1909.04881.pdf
+* Ontotext GraphQL:
+  * Platform documentation: http://platform.ontotext.com/
+  * Semantic Object Modeling Language: http://platform.ontotext.com/soml/index.html
+  * Blog1 (Dec 2019): https://www.ontotext.com/blog/the-rise-of-the-knowledge-graph/
+  * Blog2 (Apr 2020): https://www.ontotext.com/blog/return-of-the-jedi-rbac-mutation-federation-and-owl2graphql/
+* DATAtourisme: https://datatourisme.frama.io/api/#/
 * Morph-GraphQL: https://github.com/oeg-upm/morph-graphql
 
 # Papers
@@ -25,6 +27,8 @@ Feel free submit links to other resources related to GraphQL-RDF by opening a Pu
 * Schemas for Property Graphs using GraphQL schemas: http://olafhartig.de/files/HartigHidders_GRADES2019_Preprint.pdf
 * Empirical analysis of GraphQL API schemas: http://olafhartig.de/files/KimEtAl_AMW2019.pdf
 * Morph-GraphQL: https://dchaves.oeg-upm.net/resources/papers/morphgraphql-seke-2019.pdf
+* [Algebraic Property Graphs](https://arxiv.org/pdf/1909.04881.pdf) (Uber Technologies, Conexus AI) (some Category theory)
+* [Querying Heterogeneous Linked Building Data with Context-expanded GraphQL Queries](http://ceur-ws.org/Vol-2389/02paper.pdf) (Linked Data in Architecture and Construction Workshop, LDAC 2019)
 
 # Slides
 
