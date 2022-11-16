@@ -17,6 +17,7 @@ Feel free submit links to other resources related to GraphQL-RDF by opening a Pu
   * Blog2 (Apr 2020): https://www.ontotext.com/blog/return-of-the-jedi-rbac-mutation-federation-and-owl2graphql/
 * DATAtourisme: https://datatourisme.frama.io/api/#/
 * Morph-GraphQL: https://github.com/oeg-upm/morph-graphql
+* GraphQL in TerminusDB: https://terminusdb.com/docs/guides/reference-guides/graphql_query
 
 # Papers
 
@@ -40,3 +41,5 @@ Feel free submit links to other resources related to GraphQL-RDF by opening a Pu
 * Hiding the complexity of RDF Data Cubes behind GraphQL & JSON-LD: https://medium.com/@sklarman/linked-open-statistical-data-served-simply-ead245bf715
 * What Semantic Web can do for GraphQL: https://medium.com/@sklarman/what-the-semantic-web-can-do-for-graphql-8cfb39971714
 * GraphQL for universal data access: https://www.forbes.com/sites/cognitiveworld/2019/10/28/graphql-and-the-rise-of-universal-data-access/
+* How we implemented GraphQL in 14 days: https://terminusdb.com/blog/implement-graphql-in-fourteen-days/
+* GraphQL RDF bridge using Star Wars dataset in TerminusDB: https://terminusdb.com/blog/graphql-rdf-bridge-using-star-wars-dataset/
